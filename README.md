@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-🔭 I’m currently working on a task manager app made with FastAPI and flet python.<br>🌱 I’m currently learning simple app development using flet.<br>💬 Ask me about backend related stuff rather than fixing your printer.<br>⚡ Fun fact: As usual, a backend developer sucks with frontend(me too that's why I chose flet)
+🔭 I’m currently working on a task manager app made with FastAPI and React Native.<br>🌱 I’m currently learning simple app development using ReactNative.<br>💬 Ask me about backend related stuff rather than fixing your printer.<br>⚡ Fun fact: As usual, a backend developer sucks with frontend(me too)
 
 ## 🌐 Socials:
 
