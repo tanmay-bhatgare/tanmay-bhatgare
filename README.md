@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently learning FastAPI, SQLModel and many more latest techs.  <br>🌱 I’m currently learning automation with APIs, cloud based scraping, all with FastAPI. <br>💬 Ask me about backend related stuff rather than fixing your printer.<br>⚡ Fun fact: As usual, a backend developer sucks with frontend(I too).
+🔭 I’m currently learning Next.js fullstack framework and many more latest techs.  <br>🌱 I’m currently learning automation with APIs, cloud based scraping, all with FastAPI. <br>💬 Ask me about backend related stuff rather than fixing your printer.<br>⚡ Fun fact: As usual, a backend developer sucks with frontend(I too).
 
 
 ## 🌐 Socials:
