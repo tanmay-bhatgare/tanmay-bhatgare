@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my portfolio, trying to implement the things I learn in recent and make it eye-catching. <br>🌱 I’m currently learning Next.js full-stack framework and many more latest techs.<br>💬 Ask me about backend related stuff rather than fixing your printer.<br>⚡ Fun fact: As usual, a backend developer sucks with frontend(I too). 
+🔭 I’m currently working on my portfolio, trying to implement the things I learn in recent and make it eye-catching. <br>🌱 I’m currently learning backend development principles and plan to apply them in future projects. <br>💬 Ask me about backend related stuff rather than fixing your printer.<br>⚡ Fun fact: As usual, a backend developer sucks with frontend(I too). 
 
 
 ## 🌐 Socials:
